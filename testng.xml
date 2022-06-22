@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite1">
+	<listeners>
+		<listener class-name="com.RCC.Utilities.ExtentReport"></listener>
+	</listeners>
+	<test thread-count="5" name="Test1">
+		<classes>
+			<class name="com.RCC.TestData.BaseClass" />
+			<class name="com.RCC.TestData.TC_AlertTest_100" />
+			<class name="com.RCC.TestData.SampleTestCase" />
+		</classes>
+	</test> <!-- Test1 -->
+</suite> <!-- Suite1 -->
