@@ -37,3 +37,97 @@
 2022-06-21 20:00:56,028 [main] INFO RCCProject_V1 - Base URL is opened
 2022-06-21 20:00:56,765 [main] INFO RCCProject_V1 - Username entered
 2022-06-21 20:00:56,811 [main] INFO RCCProject_V1 - Test passed
+2022-06-21 21:42:07,029 [main] INFO RCCProject_V1 - Base URL is opened
+2022-06-21 21:42:08,001 [main] INFO RCCProject_V1 - Username entered
+2022-06-21 21:42:08,043 [main] INFO RCCProject_V1 - Test passed
+2022-06-21 21:49:37,647 [main] INFO RCCProject_V1 - Base URL is opened
+2022-06-21 21:49:38,490 [main] INFO RCCProject_V1 - Username entered
+2022-06-21 21:49:38,534 [main] INFO RCCProject_V1 - Test passed
+2022-08-01 12:35:43,526 [main] INFO RCCProject_V1 - Checking credentials for Student Login
+2022-08-01 12:35:43,532 [main] INFO RCCProject_V1 - URL entered
+2022-08-01 12:35:43,653 [main] INFO RCCProject_V1 - Email entered
+2022-08-01 12:35:43,722 [main] INFO RCCProject_V1 - password entered
+2022-08-01 12:35:45,029 [main] INFO RCCProject_V1 - Click Login Button
+2022-08-01 12:35:45,030 [main] INFO RCCProject_V1 - Checking the Title of the Page
+2022-08-01 12:35:45,040 [main] INFO RCCProject_V1 - Test passed
+2022-08-01 12:35:45,041 [main] INFO RCCProject_V1 - Login Successfull!
+2022-08-01 12:51:36,472 [main] INFO RCCProject_V1 - Checking credentials for Student Login
+2022-08-01 12:51:36,476 [main] INFO RCCProject_V1 - URL entered
+2022-08-01 12:51:36,593 [main] INFO RCCProject_V1 - Email entered
+2022-08-01 12:51:36,681 [main] INFO RCCProject_V1 - password entered
+2022-08-01 12:51:38,018 [main] INFO RCCProject_V1 - Click Login Button
+2022-08-01 12:51:38,018 [main] INFO RCCProject_V1 - Checking the Title of the Page
+2022-08-01 12:51:38,025 [main] INFO RCCProject_V1 - Test passed
+2022-08-01 12:51:38,026 [main] INFO RCCProject_V1 - Login Successfull!
+2022-08-01 12:53:35,776 [main] INFO RCCProject_V1 - Checking credentials for Student Login
+2022-08-01 12:53:35,781 [main] INFO RCCProject_V1 - URL entered
+2022-08-01 12:53:35,900 [main] INFO RCCProject_V1 - Email entered
+2022-08-01 12:53:35,956 [main] INFO RCCProject_V1 - password entered
+2022-08-01 12:53:37,237 [main] INFO RCCProject_V1 - Click Login Button
+2022-08-01 12:53:37,238 [main] INFO RCCProject_V1 - Checking the Title of the Page
+2022-08-01 12:53:37,246 [main] INFO RCCProject_V1 - Test passed
+2022-08-01 12:53:37,246 [main] INFO RCCProject_V1 - Login Successfull!
+2022-08-01 12:59:54,483 [main] INFO RCCProject_V1 - Checking credentials for Student Login
+2022-08-01 12:59:54,492 [main] INFO RCCProject_V1 - URL entered
+2022-08-01 12:59:54,702 [main] INFO RCCProject_V1 - Email entered
+2022-08-01 12:59:54,847 [main] INFO RCCProject_V1 - password entered
+2022-08-01 12:59:56,181 [main] INFO RCCProject_V1 - Click Login Button
+2022-08-01 12:59:56,182 [main] INFO RCCProject_V1 - Checking the Title of the Page
+2022-08-01 12:59:56,213 [main] INFO RCCProject_V1 - Test passed
+2022-08-01 12:59:56,214 [main] INFO RCCProject_V1 - Login Successfull!
+2022-08-01 13:02:53,290 [main] INFO RCCProject_V1 - Checking credentials for Student Login
+2022-08-01 13:02:53,294 [main] INFO RCCProject_V1 - URL entered
+2022-08-01 13:02:53,442 [main] INFO RCCProject_V1 - Email entered
+2022-08-01 13:02:53,509 [main] INFO RCCProject_V1 - password entered
+2022-08-01 13:02:54,756 [main] INFO RCCProject_V1 - Click Login Button
+2022-08-01 13:02:54,757 [main] INFO RCCProject_V1 - Checking the Title of the Page
+2022-08-01 13:02:54,766 [main] INFO RCCProject_V1 - Test passed
+2022-08-01 13:02:54,767 [main] INFO RCCProject_V1 - Login Successfull!
+2022-08-01 13:04:15,650 [main] INFO RCCProject_V1 - Checking credentials for Student Login
+2022-08-01 13:04:15,655 [main] INFO RCCProject_V1 - URL entered
+2022-08-01 13:04:15,777 [main] INFO RCCProject_V1 - Email entered
+2022-08-01 13:04:15,843 [main] INFO RCCProject_V1 - password entered
+2022-08-01 13:04:17,070 [main] INFO RCCProject_V1 - Click Login Button
+2022-08-01 13:04:17,070 [main] INFO RCCProject_V1 - Checking the Title of the Page
+2022-08-01 13:04:17,078 [main] INFO RCCProject_V1 - Test passed
+2022-08-01 13:04:17,078 [main] INFO RCCProject_V1 - Login Successfull!
+2022-08-01 13:19:43,349 [main] INFO RCCProject_V1 - Checking credentials for Student Login
+2022-08-01 13:19:43,356 [main] INFO RCCProject_V1 - URL entered
+2022-08-01 13:19:43,456 [main] INFO RCCProject_V1 - Email entered
+2022-08-01 13:19:43,518 [main] INFO RCCProject_V1 - password entered
+2022-08-01 13:19:44,744 [main] INFO RCCProject_V1 - Click Login Button
+2022-08-01 13:19:44,744 [main] INFO RCCProject_V1 - Checking the Title of the Page
+2022-08-01 13:19:44,753 [main] INFO RCCProject_V1 - Test passed
+2022-08-01 13:19:44,753 [main] INFO RCCProject_V1 - Login Successfull!
+2022-08-01 13:26:27,376 [main] INFO RCCProject_V1 - Checking credentials for Student Login
+2022-08-01 13:26:27,380 [main] INFO RCCProject_V1 - URL entered
+2022-08-01 13:26:27,490 [main] INFO RCCProject_V1 - Email entered
+2022-08-01 13:26:27,565 [main] INFO RCCProject_V1 - password entered
+2022-08-01 13:26:28,796 [main] INFO RCCProject_V1 - Click Login Button
+2022-08-01 13:26:28,797 [main] INFO RCCProject_V1 - Checking the Title of the Page
+2022-08-01 13:26:28,805 [main] INFO RCCProject_V1 - Test passed
+2022-08-01 13:26:28,805 [main] INFO RCCProject_V1 - Login Successfull!
+2022-08-01 13:29:11,104 [main] INFO RCCProject_V1 - Checking credentials for Student Login
+2022-08-01 13:29:11,108 [main] INFO RCCProject_V1 - URL entered
+2022-08-01 13:29:11,211 [main] INFO RCCProject_V1 - Email entered
+2022-08-01 13:29:11,267 [main] INFO RCCProject_V1 - password entered
+2022-08-01 13:29:12,508 [main] INFO RCCProject_V1 - Click Login Button
+2022-08-01 13:29:12,509 [main] INFO RCCProject_V1 - Checking the Title of the Page
+2022-08-01 13:29:12,514 [main] INFO RCCProject_V1 - Test passed
+2022-08-01 13:29:12,515 [main] INFO RCCProject_V1 - Login Successfull!
+2022-08-01 13:32:31,348 [main] INFO RCCProject_V1 - Checking credentials for Student Login
+2022-08-01 13:32:31,352 [main] INFO RCCProject_V1 - URL entered
+2022-08-01 13:32:31,448 [main] INFO RCCProject_V1 - Email entered
+2022-08-01 13:32:31,514 [main] INFO RCCProject_V1 - password entered
+2022-08-01 13:32:32,711 [main] INFO RCCProject_V1 - Click Login Button
+2022-08-01 13:32:32,711 [main] INFO RCCProject_V1 - Checking the Title of the Page
+2022-08-01 13:32:32,718 [main] INFO RCCProject_V1 - Test passed
+2022-08-01 13:32:32,718 [main] INFO RCCProject_V1 - Login Successfull!
+2022-08-01 14:54:52,620 [main] INFO RCCProject_V1 - Checking credentials for Student Login
+2022-08-01 14:54:52,626 [main] INFO RCCProject_V1 - URL entered
+2022-08-01 14:54:52,731 [main] INFO RCCProject_V1 - Email entered
+2022-08-01 14:54:52,796 [main] INFO RCCProject_V1 - password entered
+2022-08-01 14:54:54,236 [main] INFO RCCProject_V1 - Click Login Button
+2022-08-01 14:54:54,237 [main] INFO RCCProject_V1 - Checking the Title of the Page
+2022-08-01 14:54:54,264 [main] INFO RCCProject_V1 - Test passed
+2022-08-01 14:54:54,266 [main] INFO RCCProject_V1 - Login Successfull!
